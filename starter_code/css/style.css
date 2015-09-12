@@ -239,12 +239,19 @@ aside {
     background-size: cover;
 }
 
+nav a {
+    color: #f9e42e;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 300;
+}
+
 ul {
-    margin-left: 10px;
     font: light;
     color: #121212;
     font-weight: 300;
     font-size: 24px;
+    padding: 0;
 }
 
 .sign-up {
