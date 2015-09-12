@@ -169,7 +169,7 @@ h2 {
 }
 
 h3 {
-    color: #121212;
+    color: #033048;
     font-weight: 800;
     font-size: 32px;
 }
@@ -198,9 +198,10 @@ hr {
 }
 
 p {
-    color: #121212;
+    color: #606161;
     font-size: 24px;
     font-weight: 300;
+    padding-top: 25px;
     width: 100%;
     margin: auto;
 }
@@ -225,7 +226,7 @@ a {
 }
 
 aside {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 300
 }
 
@@ -284,17 +285,23 @@ ul {
     font-weight: 600;
     float: right;
     padding: 25px;
+    padding-right: 0px;
 }
 
 .learn-more {
     font-size: 22px;
     font-weight: 600;
+    padding-bottom: 25px;
 }
 
 .benifits {
     background-size: cover;
     background-color: #f0efef;
     padding: 50px;
+}
+
+.advert {
+    padding-top: 25px;
 }
 
 dark blue {
@@ -305,7 +312,7 @@ nav {
     text-align: center;
     height: 120px;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 400;
     color: #f9e42e;
     float: right;
     padding: 40px 100px 10px 0;
