@@ -294,6 +294,10 @@ ul {
     padding-bottom: 25px;
 }
 
+.catagories ul {
+    list-style-type: none;
+}
+
 .benifits {
     background-size: cover;
     background-color: #f0efef;
@@ -323,7 +327,7 @@ footer {
     color: white;
     height: 300px;
     font-weight: 600;
-    font-size: 9px;
+    font-size: 18px;
     text-align: center;
 }
 
