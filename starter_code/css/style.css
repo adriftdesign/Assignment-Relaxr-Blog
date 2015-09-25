@@ -280,6 +280,11 @@ ul {
     font-weight: 600;
 }
 
+.sign-up-button:hover {
+    background-color: #f0efef;
+    color: #033048;
+}
+
 .read-more {
     font-size: 24px;
     font-weight: 600;
